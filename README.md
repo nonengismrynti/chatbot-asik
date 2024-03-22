@@ -1,17 +1,17 @@
 
-# Create Your Own Chatbot Website with Open Source LLMs
+# Create Your Own Chatbot Website with Open Source LLMs ✨🤍
 
-### Author : Cognitive Class AI
+### Author : Cognitive Class AI 🤖
 
-### Mentee assignment from IBM Advance AI @Infinite Learning Course completion of Build a Create Your Own Chatbot Website with Open Source LLMs
+### Mentee assignment from IBM Advance AI @Infinite Learning Course completion of Build a Create Your Own Chatbot Website with Open Source LLMs. 😜🫶🏻
 
-### Mentee Info !!
+### Mentee Info !! 🔍
 
-### Name : Noneng Ismaryanti
-### Program : IBM Advance AI
+### Name : Noneng Ismaryanti 🪐✨
+### Program : IBM Advance AI 🤖🤖
 
-### Tech Stack:
-### Python
+### 💻 Tech Stack:
+### Python 🐍
 ### HTML
 ### CSS
 ### JavaScript
